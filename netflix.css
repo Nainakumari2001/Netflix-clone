@@ -1,0 +1,297 @@
+.main{
+     position: fixed;
+     top: 0px;
+     left: 0px;
+    display: inline-block;
+   background-color:white;
+    width: 100%;
+    height: 100px;
+    z-index: 5;  
+}
+.div1{
+    float: left;
+    font-size: 20px;
+   
+}
+.line{
+    float: right;
+    margin-left: 15px;
+}
+.cross-main{
+    display: inline-block;
+   height: 40px;
+    width: 100%;
+}
+.net-div{
+    width: 100%;
+    display: inline-block;
+    margin-top: 10px;
+}
+.net{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 42px;
+    color:red;
+    font-weight: bold;
+    float: left;
+}
+.sign{
+    background-color: red;
+    font-size: 18px;
+    border: 1px solid red;
+    padding: 10px;
+   color: white;
+    float: right;
+}
+.div-2{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    margin-top: 100px;
+}
+.img{
+    width: 100%;
+    opacity: 0.9;
+}
+.img1{
+    width: 100%;
+    margin-top: 40px;
+}
+.divchild{
+position: absolute;
+bottom:400px;
+left: 190px;
+font-size: 62px;
+color: white;
+font-weight: 800;
+}
+.div-child{
+    position: absolute;
+    bottom:330px;
+    left: 550px;
+    font-size: 62px;
+    color: white;
+    font-weight: 800;
+    }
+.div-child2{
+        position: absolute;
+        bottom:290px;
+        left: 400px;
+        font-size: 28px;
+        color: white;
+        font-weight: 800;
+        } 
+.div-child3{
+            position: absolute;
+            bottom:200px;
+            left: 550px;
+            font-size: 25px;
+            color: white;
+            background-color: red;
+            padding: 16px;
+}  
+.div-child4{
+    position: absolute;
+    bottom:80px;
+    left: 550px;
+    font-size: 25px;
+    color: white;
+    background-color: red;
+    padding: 16px;
+}  
+.div-child4:hover{
+    background-color: darkred;
+}
+.main-div{
+    background-color: black;
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+    position: relative;
+  }          
+
+.child-div{
+   width: 50%;
+   float: left;
+}  
+.child1{
+    font-size:57px;
+    position: absolute;
+    top: 180px;
+    left: 130px;
+    font-weight:bolder;
+    color: white;
+}
+.child2{
+    font-size:25px;
+    position: absolute;
+    top: 260px;
+    left: 130px;
+    font-weight:bolder;
+    color: white;
+}
+.child3{
+    font-size:25px;
+    position: absolute;
+    top: 299px;
+    left: 129px;
+    font-weight:bolder;
+    color: white;
+}
+.child4{
+    font-size:52px;
+    position: absolute;
+    top: 120px;
+    right: 190px;
+    font-weight:bolder;
+    color: white;
+}
+.child5{
+    font-size:52px;
+    position: absolute;
+    top: 180px;
+    right: 190px;
+    font-weight:bolder;
+    color: white;
+}
+.child6{
+    font-size:52px;
+    position: absolute;
+    top: 240px;
+    right: 390px;
+    font-weight:bolder;
+    color: white;
+}
+.child7{
+    font-size:25px;
+    position: absolute;
+    top: 309px;
+    right: 110px;
+    font-weight:bolder;
+    color: white;
+}
+.child8{
+    font-size:25px;
+    position: absolute;
+    top: 340px;
+    right: 353px;
+    font-weight:bolder;
+    color: white;
+}
+.child9{
+    font-size:52px;
+    position: absolute;
+    bottom: 310px;
+    right: 103px;
+    font-weight:bolder;
+    color: white;
+}
+.child10{
+    font-size:52px;
+    position: absolute;
+    bottom:240px;
+    right: 413px;
+    font-weight:bolder;
+    color: white;
+}
+.child11{
+    font-size:25px;
+    position: absolute;
+    top: 275px;
+    right: 91px;
+    font-weight:bolder;
+    color: white;
+}
+.child12{
+    font-size:25px;
+    position: absolute;
+    top: 309px;
+    right:23px;
+    font-weight:bolder;
+    color: white;
+}
+.child13{
+    font-size:25px;
+    position: absolute;
+    top: 344px;
+    right:142px;
+    font-weight:bolder;
+    color: white;
+}
+.child14{
+    font-size:57px;
+    position: absolute;
+    top: 240px;
+    left: 130px;
+    font-weight:bolder;
+    color: white;
+}
+.child15{
+    font-size:25px;
+    position: absolute;
+    top: 349px;
+    left: 129px;
+    font-weight:bolder;
+    color: white;
+}
+.child16{
+    font-size:25px;
+    position: absolute;
+    top: 310px;
+    left: 129px;
+    font-weight:bolder;
+    color: white;
+}
+.child-div2{
+    width: 45%;
+    float: right;
+}
+.child-div3{
+    width: 45%;
+    float: left;
+    margin-left:60px ;
+}
+.child-div4{
+    width: 55%;
+    float: right;
+}
+.fre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    padding-top: 38px;
+   
+}
+.main-div2{
+    background-color: black;
+    display: inline-block;
+    width: 100%;
+    height: 950px;
+    position: relative;
+  }       
+.nx{
+    background-color:rgb(36, 35, 35);
+    font-size: 30px;
+    color:white;
+    width:80%;
+    margin-top: 26px;
+    margin-left: 115px;
+    height: 50px;
+     padding:17px;
+     position: relative;
+}
+.nx:hover{
+    border: 1px solid white;
+    background-color: rgb(70, 67, 67);
+}
+.plus{
+    position: absolute;
+    top:20px;
+    right:60px;
+}
+.img-plus{
+
+    height: 35px;
+}
